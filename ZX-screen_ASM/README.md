@@ -14,8 +14,7 @@ SCREEN_X, SCREEN_Y: разрешение экрана Raspberry Pi. Исполь
 
 COLOR: цвет предварительной заливки экрана (бордюр). Можно выбрать любой цвет из диапазона от 0 до 15. По умолчанию установлен синий цвет — 1.
 
-
-
+=====================================================
 
 This folder contains all files necessary to build and run a program written in assembly language.
 
