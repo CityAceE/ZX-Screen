@@ -7,9 +7,13 @@
 В программе можно изменить следующие параметры:
 
 QEMU: 1 для запуска под эмулятором QEMU, любое другое значение — для реальной Raspberry Pi.
+
 MODEL: 1 для Raspberry Pi 1 или Zero 1; 2 для Raspberry Pi 2 или 3.
+
 SCREEN_X, SCREEN_Y: разрешение экрана Raspberry Pi. Используйте только стандартные значения, например, 800x600, 1024x768 и другие.
+
 COLOR: цвет предварительной заливки экрана (бордюр). Можно выбрать любой цвет из диапазона от 0 до 15. По умолчанию установлен синий цвет — 1.
+
 
 
 
@@ -22,6 +26,10 @@ To run it you need to download and install the QEMU emulator (https://www.qemu.o
 The following parameters can be changed in the program:
 
 QEMU: 1 to run under the QEMU emulator, any other value for the real Raspberry Pi.
+
 MODEL: 1 for Raspberry Pi 1 or Zero 1; 2 for Raspberry Pi 2 or 3.
+
 SCREEN_X, SCREEN_Y: the screen resolution of the Raspberry Pi. Use only standard values such as 800x600, 1024x768 and others.
+
 COLOR: screen pre-fill color (border). You can select any color from the range of 0 to 15. The default setting is blue color - 1.
+
