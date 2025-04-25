@@ -27,5 +27,3 @@ Run is done with the zx_screen_run.bat file.
 If you need to compile the program for the Raspberry Pi, edit the address in the link.ld file.
 
 To use a different image, use the bin2c.py script to convert the image binary to a data sequence.
-
-Translated with DeepL.com (free version)
